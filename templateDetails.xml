@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="template">
+	<name>component only template</name>
+	<creationDate>September 6rd 2009</creationDate>
+	<author>Matt Thomas</author>
+	<copyright>betweenbrain</copyright>
+	<authorEmail>matt@betweenbrain.com</authorEmail>
+	<authorUrl>http://betweenbrain.com/</authorUrl>
+	<version>1.4</version>
+	<description><![CDATA[A module-free template usable for creating splash pages and other creative uses. Implementation and examples available at <a href="http://betweenbrain.com/tech-notes/20-joomla/55-componenet-only-template.html">http://betweenbrain.com</a>
+]]></description>
+	<files>
+		<folder>css</folder>
+		<folder>html</folder>
+		<filename>index.html</filename>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+	</files>
+</install>
